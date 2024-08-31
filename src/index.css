@@ -17,6 +17,9 @@
     url("../public/fonts/JetBrainsMono/JetBrainsMono-ExtraBold.ttf")
       format("truetype");
 }
+*{
+  box-sizing: border-box;
+}
 
 body {
   font-family: "FiraCode", monospace;
